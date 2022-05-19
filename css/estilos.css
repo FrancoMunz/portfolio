@@ -84,7 +84,7 @@ textarea {
 }
 
 .proyecto img {
-    height: 208px;
+    height: 200px;
 
 }
 
@@ -122,4 +122,13 @@ footer a {
         background-repeat: no-repeat;
         background-size: 100%;
     }
+}
+
+.cohete {
+height: 400px;}
+
+#inicio {
+    background-image: url(../imagenes/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
