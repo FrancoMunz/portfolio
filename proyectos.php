@@ -24,16 +24,16 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
+                        <li class="nav-item py-1 px-3 px-sm-2">
                             <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
                         </li>
-                        <li class="nav-item py-1 px-3 px-sm-4">
+                        <li class="nav-item py-1 px-3 px-sm-2">
                             <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
                         </li>
-                        <li class="nav-item py-1 px-3 px-sm-4">
+                        <li class="nav-item py-1 px-3 px-sm-2">
                             <a class="nav-link" href="contacto.php">Contacto</a>
                         </li>
-                        <li class="nav-item py-1 px-3 px-sm-4">
+                        <li class="nav-item py-1 px-3 px-sm-2">
                             <a class="nav-link active" href="proyectos.php">Proyectos</a>
                         </li>
                     </ul>
@@ -109,14 +109,19 @@
                 </div>
             </div>
     </main>
-    <footer class="container mt-5">
-        <div class="row">
-            <div class="col-12 col-sm-3">
-                <i class="fa-brands fa-github"></i>
-                <i class="fa-brands fa-linkedin"></i>
+    <footer class="container">
+        <div class="row mt-1 pb-1">
+            <div class="col-12 col-sm-3 text-center text-sm-start">
+                <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/francomunz/" target="_blank" title="Linkedin"><i
+                        class="fab fa-linkedin-in"></i></a>
             </div>
-            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">DePCsuite</a></div>
-            <div class="col-12 col-sm-3"><a href="mailto:francomunz@hotmail.com">francomunz@hotmail.com></a></div>
+            <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">
+                Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
+            </div>
+            <div class="col-12 col-sm-3 text-sm-start  pt-2 p-sm-0">
+                <a href="mailto:francomunz@hotmail.com">francomunz@hotmail.com</a>
+            </div>
         </div>
     </footer>
     <div class="whatsapp pt-2 pb-4 px-2">

@@ -24,16 +24,16 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                            <li class="nav-item">
+                            <li class="nav-item py-1 px-3 px-sm-2">
                                 <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item py-1 px-3 px-sm-2">
                                 <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item py-1 px-3 px-sm-2">
                                 <a class="nav-link" href="contacto.php">Contacto</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item py-1 px-3 px-sm-2">
                                 <a class="nav-link" href="proyectos.php">Proyectos</a>
                             </li>
                         </ul>
@@ -65,7 +65,7 @@
         </div>
     </main>
     <footer class="container">
-        <div class="row mt-5 pb-3">
+        <div class="row mt-1 pb-1">
             <div class="col-12 col-sm-3 text-center text-sm-start">
                 <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/francomunz/" target="_blank" title="Linkedin"><i
@@ -79,7 +79,7 @@
             </div>
         </div>
     </footer>
-    <div class="whatsapp">
+    <div class="whatsapp pt-2 pb-4 px-2">
         <a href="https://api.whatsapp.com/send?phone=542236193362" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
     </div>
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script></body>
