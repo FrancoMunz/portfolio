@@ -77,7 +77,7 @@
         </div>
     </main>
     <footer class="container">
-        <div class="row mt-1 pb-1">
+        <div class="row mt-5 pb-1">
             <div class="col-12 col-sm-3 text-center text-sm-start">
                 <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/francomunz/" target="_blank" title="Linkedin"><i
