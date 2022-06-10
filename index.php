@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -10,41 +10,39 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
-    <link rel="shortcut icon" href="images/favicon.ico"/>
     <title>Inicio</title>
 </head>
 <body id="inicio">
-    <header>
-        <header class="container">
-            <nav class="navbar navbar-expand-md mb-4">
-                <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                        <i class="fa-solid fa-bars"></i>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarCollapse">
-                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                            <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-                            </li>
-                            <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
-                            </li>
-                            <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" href="contacto.php">Contacto</a>
-                            </li>
-                            <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" href="proyectos.php">Proyectos</a>
-                            </li>
-                        </ul>
-                        <div class="d-flex">
-                            <button class="btn btn-rojo" type="submit"> <i class="fa-solid fa-file-zipper"></i> Descargar mi
-                                CV </button>
-                        </div>
+<header class="container">
+        <nav class="navbar navbar-expand-md mb-4">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                        <li class="nav-item py-1 px-3 px-sm-2">
+                            <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
+                        </li>
+                        <li class="nav-item py-1 px-3 px-sm-2">
+                            <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
+                        </li>
+                        <li class="nav-item py-1 px-3 px-sm-2">
+                            <a class="nav-link" href="contacto.php">Contacto</a>
+                        </li>
+                        <li class="nav-item py-1 px-3 px-sm-2">
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
+                        </li>
+                    </ul>
+                    <div class="d-flex">
+                        <button class="btn btn-rojo" type="submit"> <i class="fa-solid fa-file-zipper"></i> Descargar mi
+                            CV </button>
                     </div>
                 </div>
-            </nav>
-        </header>   
+            </div>
+        </nav>
+    </header>
 <main class="container">
         <div class="row">
             <div class="col-12 mt-sm-5 text-center div-cohete">
@@ -52,15 +50,15 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+            <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3 p-2">
                 <div class="input-home">
-                    <p class="p-1">Bienvenid@ a mi portfolio de proyectos.</p>
+                    <p class="p-0">Bienvenid@ a mi portfolio de proyectos.</p>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-12 text-center">
-                <a href="proyectos.php" class="btn shadow">Conoce mis proyectos</a>
+            <div class="col-12 text-center p-3">
+                <a href="proyectos.php" class="btn shadow btn-rojo" >Conoce mis proyectos</a>
             </div>
         </div>
     </main>

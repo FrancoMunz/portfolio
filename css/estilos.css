@@ -55,7 +55,7 @@ textarea {
 }
 
 .btn-rojo:hover {
-    color: rgb(192, 29, 29);
+    color: rgb(182, 37, 37);
 }
 
 .nav-link {
@@ -131,4 +131,16 @@ height: 400px;}
     background-image: url(../imagenes/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+.foto {
+    border-radius: 300px;
+}
+
+#tecnologias {
+    background-color: #E20000
+    ;
+    }
+
+.STACK {
+    font-size: 13px;
 }
