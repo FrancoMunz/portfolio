@@ -52,7 +52,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-5 col-12 mt-1">
-                        <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
+                        <h1 class="mt-sm-4 pb-sm-4">Sobre Mí</h1>
                         <p class="pb-sm-6">Estudiante de Administración & RRHH | ISFT N°204 <br>Estudiante de
                             Programación Web Full Stack <br> Financial Analyst</p>
                         <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
@@ -165,14 +165,14 @@
             <section id="experiencia" class="container">
                 <div class="row">
                     <div class="col-12 pt-5 pb-4">
-                        <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
+                        <h2><i class="fas fa-briefcase"></i> Experiencia Laboral</h2>
                     </div>
                 </div>
                 <div class="row shadow bg-white rounded">
                     <div class="col-12">
                         <div class="row">
                             <div class="col-2 p-5 my-auto d-none d-sm-block">
-                                <img src="imagenes/mrfly.png" class="img-fluid baw" title="mr fly">
+                                <img src="imagenes/FLYYY.png" class="img-fluid baw" title="mr fly">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>MR FLY TRAMPOLINE PARK</h3>
@@ -230,7 +230,7 @@
             <section id="formacion" class="container">
                 <div class="row">
                     <div class="col-12 pt-5 pb-4">
-                        <h2><i class="fas fa-graduation-cap"></i> Formación acádémica</h2>
+                        <h2><i class="fas fa-graduation-cap"></i> Formación Acádémica</h2>
                     </div>
                 </div>
                 <div class="row shadow bg-white rounded p-1">
