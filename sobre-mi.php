@@ -8,8 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
     <title>Sobre Mi</title>
 </head>
@@ -19,9 +18,7 @@
         <header class="container">
             <nav class="navbar navbar-expand-md mb-4">
                 <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
-                        aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fa-solid fa-bars"></i>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -59,8 +56,7 @@
 
                     </div>
                     <div class="col-sm-3 col-12 mt-4 offset-sm-2 p-3">
-                        <img src="imagenes/franco.jpeg" alt="Franco Munz" title="Franco Munz"
-                            class="foto img-fluid img-circle">
+                        <img src="imagenes/franco.jpeg" alt="Franco Munz" title="Franco Munz" class="foto img-fluid img-circle">
                     </div>
                 </div>
             </div>
@@ -75,43 +71,37 @@
                         <div class="col-sm-2 col-6 text-center STACK">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Javascript</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1209/javascript.jpeg">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">PHP</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">HTML5</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">React.js</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">jQuery</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Bootstrap</h3>
-                                <img class="img-fluid d-block mx-auto" width="60"
-                                    src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                                <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
                             </div>
                         </div>
                     </div>
@@ -119,43 +109,37 @@
                         <div class="col-sm-2 col-6">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Laravel</h3>
-                                <img class="img-fluid d-block mx-auto" width="85"
-                                    src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                                <img class="img-fluid d-block mx-auto" width="85" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">MySQL</h3>
-                                <img class="img-fluid d-block mx-auto" width="57"
-                                    src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                                <img class="img-fluid d-block mx-auto" width="57" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">CSS</h3>
-                                <img class="img-fluid d-block mx-auto" width="57"
-                                    src="https://img.stackshare.io/service/6727/css.png">
+                                <img class="img-fluid d-block mx-auto" width="57" src="https://img.stackshare.io/service/6727/css.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Git</h3>
-                                <img class="img-fluid d-block mx-auto" width="57"
-                                    src="https://img.stackshare.io/service/1046/git.png">
+                                <img class="img-fluid d-block mx-auto" width="57" src="https://img.stackshare.io/service/1046/git.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Apache</h3>
-                                <img class="img-fluid d-block mx-auto" width="122"
-                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
+                                <img class="img-fluid d-block mx-auto" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Mercado pago</h3>
-                                <img class="img-fluid d-block mx-auto" width="57"
-                                    src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                                <img class="img-fluid d-block mx-auto" width="57" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                             </div>
                         </div>
                     </div>
@@ -277,7 +261,7 @@
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Introducción a Inversiones & Financiamiento </h3>
-                                <h4>Escuela Argentina de Negocios</h4>
+                                <h4>Organización de las Naciones Unidas para la Alimentación y la Agricultura</h4>
                                 <h5>Expedición: Oct 2021</h5>
                                 <p></p>
                             </div>
@@ -299,8 +283,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="imagenes/university-of-new-mexico.jpg" class="img-fluid baw"
-                                    title="depcsuite">
+                                <img src="imagenes/university-of-new-mexico.jpg" class="img-fluid baw" title="depcsuite">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Negocios Internacionales I</h3>
@@ -313,8 +296,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="imagenes/university-of-new-mexico.jpg" class="img-fluid baw"
-                                    title="depcsuite">
+                                <img src="imagenes/university-of-new-mexico.jpg" class="img-fluid baw" title="depcsuite">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Negocios Internacionales II</h3>
@@ -412,8 +394,7 @@
             <div class="row mt-5 pb-3">
                 <div class="col-12 col-sm-3 text-center text-sm-start">
                     <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/francomunz/    " target="_blank" title="Linkedin"><i
-                            class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/francomunz/    " target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">
                     Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
@@ -424,8 +405,7 @@
             </div>
         </footer>
         <div class="whatsapp">
-            <a href="https://api.whatsapp.com/send?phone=542236193362" title="Whatsapp"><i
-                    class="fab fa-whatsapp"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=542236193362" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
         </div>
         <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
