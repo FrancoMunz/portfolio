@@ -115,7 +115,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mt-sm-4 mt-0">
+                    <div class="row mt-sm-4 mt-0 text-center">
                         <div class="col-sm-2 col-6">
                             <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                                 <h3 class="STACK">Laravel</h3>
