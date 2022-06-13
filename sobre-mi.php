@@ -216,7 +216,7 @@
                                 <img src="imagenes/arcosdorados.jpg" class="img-fluid baw" title="mr fly">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
-                                <h3>Arcos Dorados S.A</h3>
+                                <h3>ARCOS DORADOS S.A</h3>
                                 <h4>Dic 2017 - Feb 2018</h4>
                                 <h5>Empleado Crew</h5>
                                 <p>Ejecutar todas las funciones establecidas básicas de acuerdos con los estándares establecidos por la empresa MC DONALDS, para lograr un nivel insuperable de calidad, servicio, limpieza y valor.
