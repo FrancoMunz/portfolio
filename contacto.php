@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -53,7 +54,7 @@
         </div>
         <div class="row">
             <div class="col-12 col-sm-6">
-                <p>Te invito a que te contactes enviandome un mensaje o bien por whatsapp</p>
+                <p>Te invito a que te contactes conmigo enviandome un mensaje !</p>
             </div>
             <div class="col-12 col-sm-6">
                 <form action="" method="post">
