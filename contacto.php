@@ -7,7 +7,7 @@ $correo = $_POST["txtCorreo"];
 $telefono = $_POST["txtTelefono"];
 $mensaje = $_POST["txtMensaje"];
 
-}
+
 
 //Varios Destinatarios
 $para = "francomunz@hotmail.com";
@@ -32,6 +32,7 @@ $cabeceras .= 'From: francomunz777@gmail.com' . "\r\n";
 // Enviarlo
 //mail($para, $título, $mensaje, $cabeceras);
 header("Location: confirmacion-envio.php");
+}
 ?>
 
 <!DOCTYPE html>
