@@ -2,15 +2,14 @@
 <html lang="es">
 
 <head>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proyectos</title>
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
 
 </head>
@@ -19,8 +18,7 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -78,9 +76,7 @@
                     <div class="proyecto">
                         <img src="imagenes/abmventas.png" alt="AMB Clientes" class="img-fluid">
                         <h2 class="p-3 d-block">AMB VENTAS</h2>
-                        <p class="p-3 pb-3 d-block">Alta, baja y modificacion de un registro de clientes. realizado en
-                            HTML,
-                            CSS PHP, bootstrap y Json </p>
+                        <p class="p-3 pb-3 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos. </p>
                         <div class="row my-5">
                             <div class="col-6 ps-4">
                                 <a href="" target="_blank" class="btn btn-rojo">Ver Online</a>
@@ -95,9 +91,7 @@
                     <div class="proyecto">
                         <img src="imagenes/proyecto-integrador.png" alt="AMB Clientes" class="img-fluid">
                         <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
-                        <p class="p-3 pb-3 d-block">Alta, baja y modificacion de un registro de clientes. realizado en
-                            HTML,
-                            CSS PHP, bootstrap y Json </p>
+                        <p class="p-3 pb-3 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, Mercadopago con panel administrador, gestor de usuarios, módulo de permisos y funcionalidades a fines. </p>
                         <div class="row my-5">
                             <div class="col-6 ps-4">
                                 <a href="" target="_blank" class="btn btn-rojo">Ver Online</a>
@@ -114,8 +108,7 @@
         <div class="row mt-1 pb-1">
             <div class="col-12 col-sm-3 text-center text-sm-start">
                 <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/francomunz/" target="_blank" title="Linkedin"><i
-                        class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.linkedin.com/in/francomunz/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
             </div>
             <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">
                 Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
