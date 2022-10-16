@@ -23,16 +23,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" href="sobre-mi.html">Sobre Mí</a>
+                            <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" href="contacto.html">Contacto</a>
+                            <a class="nav-link" href="contacto.php">Contacto</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -46,7 +46,7 @@
 <main class="container">
         <div class="row">
             <div class="col-12 mt-sm-5 text-center div-cohete">
-                <a href="proyectos.html"><img src="imagenes/cohete.svg" class="cohete"></a>
+                <a href="proyectos.php"><img src="imagenes/cohete.svg" class="cohete"></a>
             </div>
         </div>
         <div class="row">
@@ -58,7 +58,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center p-3">
-                <a href="proyectos.html" class="btn shadow btn-rojo" >Conoce mis proyectos</a>
+                <a href="proyectos.php" class="btn shadow btn-rojo" >Conoce mis proyectos</a>
             </div>
         </div>
     </main>

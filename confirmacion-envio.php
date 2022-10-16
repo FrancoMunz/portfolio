@@ -1,6 +1,6 @@
 <?php
 
-$pg="contacto";
+$pg = "contacto";
 
 ?>
 
@@ -34,7 +34,7 @@ $pg="contacto";
         </div>
     </main>
     <div class="whatsapp pt-2 pb-3 px-3">
-        <a href="https://wa.me/542236193362"</a>
+        <a href="https://wa.me/542236193362" </a>
             <i class="fa-brands fa-whatsapp"></i>
     </div>
 </body>

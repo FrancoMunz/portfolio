@@ -24,16 +24,16 @@
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
                             <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+                                <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
                             </li>
                             <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link active" href="sobre-mi.html">Sobre Mí</a>
+                                <a class="nav-link active" href="sobre-mi.php">Sobre Mí</a>
                             </li>
                             <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" href="contacto.html">Contacto</a>
+                                <a class="nav-link" href="contacto.php">Contacto</a>
                             </li>
                             <li class="nav-item py-1 px-3 px-sm-2">
-                                <a class="nav-link" href="proyectos.html">Proyectos</a>
+                                <a class="nav-link" href="proyectos.php">Proyectos</a>
                             </li>
                         </ul>
                         <div class="d-flex">
@@ -51,7 +51,7 @@
                     <div class="col-sm-5 col-12 mt-1">
                         <h1 class="mt-sm-4 pb-sm-4">Sobre Mí</h1>
                         <p class="pb-sm-6"> University Technician in Human Resources | ISFT N°204 <br>Full Stack Web Programmin Student | DEPCSUITE<br></p>
-                        <a href="contacto.html" class="btn btn-rojo">Enviar mensaje</a>
+                        <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                     </div>
                     <div class="col-sm-3 col-12 mt-4 offset-sm-2 p-3">

@@ -62,16 +62,16 @@ header("Location: confirmacion-envio.php");
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" href="sobre-mi.html">Sobre Mí</a>
+                            <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link active" href="contacto.html">Contacto</a>
+                            <a class="nav-link active" href="contacto.php">Contacto</a>
                         </li>
                         <li class="nav-item py-1 px-3 px-sm-2">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                     </ul>
                     <div class="d-flex">
